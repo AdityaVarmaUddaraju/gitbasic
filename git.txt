@@ -1,0 +1,9 @@
+.fork the repo you want to pullreq
+.creat a empty folder and cd into it
+.git init
+.git clone <link of your forked repo>
+.copy the files to be pushed into this folder
+.git add .
+.git commit -m "initial commit"
+.git add .
+git push -u origin master
